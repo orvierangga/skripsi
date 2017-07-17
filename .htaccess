@@ -1,0 +1,5 @@
+Options -Indexes
+ErrorDocument 402 /pkl/error.php
+ErrorDocument 403 /pkl/error.php
+ErrorDocument 404 /pkl/error.php
+ErrorDocument 500 /pkl/error.php
